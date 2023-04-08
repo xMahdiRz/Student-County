@@ -156,7 +156,7 @@ const Home = () => {
           </div>
           <div className="feature">
             <div className="feature-icon yellow">
-               <img className="frame-icon" alt="" src="/sparkles.svg" />
+               <img className="frame-icon" alt="" src="/icons/sparkles.svg" />
             </div>
             <div className="feature-text">
               <div className="h3">Versatile</div>
